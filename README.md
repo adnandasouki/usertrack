@@ -8,5 +8,12 @@ A simple note taking app made with Flutter and Firebase for backend services.
 - Sort notes based on creation/modification date.
 
 ## Screens
-![login screen](/images/login_screen.png) ![signup screen](/images/signup_screen.png) ![notes screen](/images/notes_screen.png)
-![settings screen](/images/settings_screen.png) ![note details screen](/images/note_details.png)
+<p>
+  <img src="images/login_Screen.png" width="30%">
+  <img src="images/signup_Screen.png" width="30%">
+  <img src="images/notes_Screen.png" width="30%">
+</p>
+<p>
+  <img src="images/note_details.png" width="30%">
+  <img src="images/settings_screen.png" width="30%">
+</p>
